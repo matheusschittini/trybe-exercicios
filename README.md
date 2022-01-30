@@ -8,42 +8,42 @@ Os principais blocos técnicos estudados são JavaScript, HTML, CSS, React, Node
 
 ##### Bloco 1: Introdução - Unix & Shell
 
-- [ ] 1-3: _Unix & Shell- Part 1_
-- [ ] 1-4: _Unix & Shell- Part 2_
+- [ ] 1-3: Unix & Shell- Part 1
+- [ ] 1-4: Unix & Shell- Part 2
 
 ##### Bloco 2: Git & GitHub
 
-- [ ] 2-1: _O que é e para que serve?_
-- [ ] 2-2: _Entendendo os comandos_
-- [ ] 2-3: _Internet - Entendendo como ela funciona_
+- [ ] 2-1: O que é e para que serve?
+- [ ] 2-2: Entendendo os comandos
+- [ ] 2-3: Internet - Entendendo como ela funciona
 
 ##### Bloco 3: Introdução - HTML & CSS
 
-- [ ] 3-1: _HTML & CSS - Estruturas de página_
-- [ ] 3-2: _HTML & CSS - Primeiros passos em CSS_
-- [ ] 3-3: _HTML & CSS - Seletores e posicionamento_
-- [ ] 3-4: _HTML Semântico_
-- [ ] 3-5: _[Projeto - HTML & CSS]()_
+- [ ] 3-1: HTML & CSS - Estruturas de página
+- [ ] 3-2: HTML & CSS - Primeiros passos em CSS
+- [ ] 3-3: HTML & CSS - Seletores e posicionamento
+- [ ] 3-4: HTML Semântico
+- [ ] 3-5: [Projeto - HTML & CSS]()
 
 ##### Bloco 4: Introdução - JavaScript
 
-- [ ] 4-1: _JavaScript - Primeiros passos_
-- [ ] 4-2: _JavaScript - Array e loop For_
-- [ ] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
-- [ ] 4-4: _JavaScript - Objetos e funções_
-- [ ] 4-5: _[Projeto - Playground Functions]()_
+- [ ] 4-1: JavaScript - Primeiros passos
+- [ ] 4-2: JavaScript - Array e loop For
+- [ ] 4-3: JavaScript - Lógica de Programação e Algoritmos
+- [ ] 4-4: JavaScript - Objetos e funções
+- [ ] 4-5: [Projeto - Playground Functions]()
 
 ##### Bloco 5: Introdução - JavaScript - Projetos
 
-- [ ] 5-1: _JavaScript - DOM e seletores_
-- [ ] 5-2: _JavaScript - Trabalhando com elementos_
-- [ ] 5-3: _JavaScript - Eventos_
-- [ ] 5-4: _JavaScript - Web Storage_
-- [ ] 5-5: _[Projeto - Meme Generator]()_
-- [ ] 5-6: _[Projeto - Arte com Pixels]()_
-- [ ] 5-7: _[Projeto - Lista de tarefas]()_
-- [ ] 5-7: _[Projeto - Adivinhe a Cor]()_
-- [ ] 5-7: _[Projeto - Carta Misteriosa]()_
+- [ ] 5-1: JavaScript - DOM e seletores
+- [ ] 5-2: JavaScript - Trabalhando com elementos
+- [ ] 5-3: JavaScript - Eventos
+- [ ] 5-4: JavaScript - Web Storage
+- [ ] 5-5: [Projeto - Meme Generator]()
+- [ ] 5-6: [Projeto - Arte com Pixels]()
+- [ ] 5-7: [Projeto - Lista de tarefas]()
+- [ ] 5-7: [Projeto - Adivinhe a Cor]()
+- [ ] 5-7: [Projeto - Carta Misteriosa]()
 
 ##### Bloco 6: HTML & CSS avançado
 
