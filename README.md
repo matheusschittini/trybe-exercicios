@@ -1,8 +1,8 @@
-Este repositório contém, em ordem cronológica, todas as atividades de aprendizagem desenvolvidas por [Matheus Schittini](https://www.linkedin.com/in/matheus-schittini-5600b9211/) durante a sua trajetória de estudo na [Trybe](https://www.betrybe.com/).
+#### Este repositório contém, em ordem cronológica, todas as atividades de aprendizagem desenvolvidas por [Matheus Schittini](https://www.linkedin.com/in/matheus-schittini-5600b9211/) durante a sua trajetória de estudo na [Trybe](https://www.betrybe.com/).
 
-O programa de treinamento em desenvolvimento web da Trybe tem uma carga de trabalho de 1.500 horas e abrange front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e soft skills.
+#### O programa de treinamento em desenvolvimento web da Trybe tem uma carga de trabalho de 1.500 horas e abrange front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e soft skills.
 
-Os principais blocos técnicos estudados são JavaScript, HTML, CSS, React, Node, Express.js, SQL, Git, entre outras linguagens e frameworks.
+#### Os principais blocos técnicos estudados são JavaScript, HTML, CSS, React, Node, Express.js, SQL, Git, entre outras linguagens e frameworks.
 
 
 
@@ -172,84 +172,83 @@ Os principais blocos técnicos estudados são JavaScript, HTML, CSS, React, Node
 
 ##### Bloco 24: Updates
 
-- [ ] 24-1: _Updates Simples_
-- [ ] 24-2: _Updates Complexos - Arrays - Parte 1_
-- [ ] 24-3: _Updates Complexos - Arrays - Parte 2_
-- [ ] 24-4: _[Projeto - Commerce]()_
+- [ ] 24-1: Updates Simples
+- [ ] 24-2: Updates Complexos - Arrays - Parte 1
+- [ ] 24-3: Updates Complexos - Arrays - Parte 2
+- [ ] 24-4: [Projeto - Commerce]()
 
 ##### Bloco 25: Aggregation Framework
 
-- [ ] 25-1: _Aggregation Framework - Part 1_
-- [ ] 25-2: _Aggregation Framework - Part 2_
-- [ ] 25-3: _[Projeto - Aggregations]()_
+- [ ] 25-1: Aggregation Framework - Part 1
+- [ ] 25-2: Aggregation Framework - Part 2
+- [ ] 25-3: [Projeto - Aggregations]()
 
 ##### Bloco 26: Intro - NodeJS
 
-- [ ] 26-1: _NodeJS - Introdução_
-- [ ] 26-2: _NodeJS - Fluxo Assíncrono_
-- [ ] 26-3: _NodeJS - Arquitetura_
-- [ ] 26-4: _[Projeto - A CLI of Ice and Fire]()_
+- [ ] 26-1: NodeJS - Introdução
+- [ ] 26-2: NodeJS - Fluxo Assíncrono
+- [ ] 26-3: NodeJS - Arquitetura
+- [ ] 26-4: [Projeto - A CLI of Ice and Fire]()
 
 ##### Bloco 27: NodeJS
 
-- [ ] 27-1: _Express: HTTP com Node.js_
-- [ ] 27-2: _Arquitetura de Software - Introdução ao MVC_
-- [ ] 27-3: _[Projeto - Cookmaster]()_
+- [ ] 27-1: Express: HTTP com Node.js
+- [ ] 27-2: Arquitetura de Software - Introdução ao MVC
+- [ ] 27-3: [Projeto - Cookmaster]()
 
 ##### Bloco 28: NodeJS
 
-- [ ] 28-1: _Arquitetura de Software - Camada de Serviço_
-- [ ] 28-2: _Arquitetura web - Rest e Restful_
-- [ ] 28-3: _[Projeto - Store Manager]()_
+- [ ] 28-1: Arquitetura de Software - Camada de Serviço
+- [ ] 28-2: Arquitetura web - Rest e Restful
+- [ ] 28-3: [Projeto - Store Manager]()
 
 ##### Bloco 29: NodeJS
 
-- [ ] 29-1: _NodeJS - JWT - (JSON Web Token)_
-- [ ] 29-2: _NodeJS - Upload de arquivos com Multer_
-- [ ] 29-3: _[Projeto - Cookmaster V2]()_
+- [ ] 29-1: NodeJS - JWT - (JSON Web Token)
+- [ ] 29-2: NodeJS - Upload de arquivos com Multer
+- [ ] 29-3: [Projeto - Cookmaster V2]()
 
 ##### Bloco 30: Introdução - Deploy
 
-- [ ] 30-1: _Infraestrutura - Deploy com Heroku_
-- [ ] 30-2: _Deploy - Gerenciadores de Processos_
-- [ ] 30-3: _[Projeto - Stranger Things]()_
+- [ ] 30-1: Infraestrutura - Deploy com Heroku
+- [ ] 30-2: Deploy - Gerenciadores de Processos
+- [ ] 30-3: [Projeto - Stranger Things]()
 
 ##### Bloco 31: Projeto
 
-- [ ] 31-1: _[Projeto - Trybeer]()_
+- [ ] 31-1: [Projeto - Trybeer]()
 
 ##### Bloco 32: Arquitetura de Software
 
-- [ ] 32-1: _Arquitetura - Princípios SOLID_
-- [ ] 32-2: _ORM - Interface da aplicação com o banco de dados_
-- [ ] 32-3: _Arquitetura de Software - DDD_
-- [ ] 32-4: _Boas práticas na escrita de testes_
-- [ ] 32-3: _[Projeto - API de Blogs]()_
+- [ ] 32-1: Arquitetura - Princípios SOLID
+- [ ] 32-2: ORM - Interface da aplicação com o banco de dados
+- [ ] 32-3: Arquitetura de Software - DDD
+- [ ] 32-4: Boas práticas na escrita de testes
+- [ ] 32-3: [Projeto - API de Blogs]()
 
 ##### Bloco 33: Sockets
 
-- [ ] 30-1: _Sockets - TCP/UDP & NET_
-- [ ] 30-2: _Sockets - Socket.io_
-- [ ] 30-3: _[Projeto - Webchat]()_
+- [ ] 30-1: Sockets - TCP/UDP & NET
+- [ ] 30-2: Sockets - Socket.io
+- [ ] 30-3: [Projeto - Webchat]()
 
 ##### Bloco 34: Projeto
 
-- [ ] 34-1: _[Projeto - Trybeer V2]()_
+- [ ] 34-1: [Projeto - Trybeer V2]()
 
 #### Módulo 4) Ciência da Computação :hourglass_flowing_sand:
 
 ##### Bloco 35: Introdução - Ciência da Computação
 
-- [ ] 35-1: _Arquitetura de Computadores_
-- [ ] 35-2: _Arquitetura de redes_
-- [ ] 35-3: _Redes de computadores, ferramentas e segurança_
-- [ ] 35-4: _[Projeto - Explorando os protocolos]()_
+- [ ] 35-1: Arquitetura de Computadores
+- [ ] 35-2: Arquitetura de redes
+- [ ] 35-3: Redes de computadores, ferramentas e segurança
+- [ ] 35-4: [Projeto - Explorando os protocolos]()
 
 ##### Bloco 36: Python
 
-- [ ] 35-1: _Aprendendo Python_
-- [ ] 35-2: _Testes e Exceções_
-- [ ] 35-3: _Entrada e Saída de dados_
-- [ ] 36-4: _Entrada e Saída de dados_
-- [ ] 35-5: _[Projeto - Tech news]()_
-
+- [ ] 35-1: Aprendendo Python
+- [ ] 35-2: Testes e Exceções
+- [ ] 35-3: Entrada e Saída de dados
+- [ ] 36-4: Entrada e Saída de dados
+- [ ] 35-5: [Projeto - Tech news]()
