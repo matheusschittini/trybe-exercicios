@@ -5,6 +5,7 @@ O programa de treinamento em desenvolvimento web da Trybe tem uma carga de traba
 Os principais blocos técnicos estudados são JavaScript, HTML, CSS, React, Node, Express.js, SQL, Git, entre outras linguagens e frameworks.
 
 
+
 ### Fundamentos do Desenvolvimento Web ✔️
 
 ##### Bloco 1: Introdução - Unix & Shell
@@ -48,126 +49,126 @@ Os principais blocos técnicos estudados são JavaScript, HTML, CSS, React, Node
 
 ##### Bloco 6: HTML & CSS avançado
 
-- [ ] 6-1: _HTML & CSS - Forms_
-- [ ] 6-2: _Bibliotecas JavaScript e Frameworks CSS_
-- [ ] 6-3: _CSS Flexbox - Part 1_
-- [ ] 6-4: _CSS Flexbox - Part 2_
-- [ ] 6-5: _CSS Responsivo - Mobile First_
-- [ ] 6-6: _[Projeto - Página inicial do Facebook]()_
+- [ ] 6-1: HTML & CSS - Forms
+- [ ] 6-2: Bibliotecas JavaScript e Frameworks CSS
+- [ ] 6-3: CSS Flexbox - Part 1
+- [ ] 6-4: CSS Flexbox - Part 2
+- [ ] 6-5: CSS Responsivo - Mobile First
+- [ ] 6-6: [Projeto - Página inicial do Facebook]()
 
 ##### Bloco 7: JavaScript ES6 & Testes Unitários
 
-- [ ] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
-- [ ] 7-2: _JavaScript ES6 - Objects_
-- [ ] 7-3: _Testes unitários em JavaScript_
-- [ ] 7-4: _[Projeto - JavaScript Testes Unitários]()_
+- [ ] 7-1: JavaScript ES6 - let, const, arrow functions e template literals
+- [ ] 7-2: JavaScript ES6 - Objects
+- [ ] 7-3: Testes unitários em JavaScript
+- [ ] 7-4: [Projeto - JavaScript Testes Unitários]()
 
 ##### Bloco 8: JavaScript ES6
 
-- [ ] 8-1: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
-- [ ] 8-2: _JavaScript ES6 - Higher Order Functions - map e filter_
-- [ ] 8-3: _JavaScript ES6 - Higher Order Functions - reduce_
-- [ ] 8-4: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
-- [ ] 8-5: _[Projeto - Zoo functions]()_
+- [ ] 8-1: JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
+- [ ] 8-2: JavaScript ES6 - Higher Order Functions - map e filter
+- [ ] 8-3: JavaScript ES6 - Higher Order Functions - reduce
+- [ ] 8-4: JavaScript ES6 - spread operator, rest parameter, destructuring e mais
+- [ ] 8-5: [Projeto - Zoo functions]()
 
 ##### Bloco 9: Assincronicidade & Callbacks
 
-- [ ] 9-1: _JavaScript Assíncrono e Callbacks_
-- [ ] 9-2: _JavaScript Promises_
-- [ ] 9-3: _[Projeto - Carrinho de Compras]()_
+- [ ] 9-1: JavaScript Assíncrono e Callbacks
+- [ ] 9-2: JavaScript Promises
+- [ ] 9-3: [Projeto - Carrinho de Compras]()
 
 ##### Bloco 10: Jest
 
-- [ ] 10-1: _Primeiros passos no Jest_
-- [ ] 10-2: _Jest - Testes Assíncronos_
-- [ ] 10-3: _Jest - Simulando comportamentos_
-- [ ] 10-4: _[Projeto - Jest Assíncrono e Mocking]()_
+- [ ] 10-1: Primeiros passos no Jest
+- [ ] 10-2: Jest - Testes Assíncronos
+- [ ] 10-3: Jest - Simulando comportamentos
+- [ ] 10-4: [Projeto - Jest Assíncrono e Mocking]()
 
 ### Desenvolvimento Front-end :hourglass_flowing_sand:
 
 ##### Bloco 11: Introdução - React
 
-- [ ] 11-1: _'Hello, world!' no React!_
-- [ ] 11-2: _Componentes React_
-- [ ] 11-3: _[Projeto - Movie Cards Library]()_
+- [ ] 11-1: 'Hello, world!' no React!
+- [ ] 11-2: Componentes React
+- [ ] 11-3: [Projeto - Movie Cards Library]()
 
 ##### Bloco 12: React
 
-- [ ] 12-1: _Components com estado_
-- [ ] 12-2: _Eventos e formulários no React_
-- [ ] 12-3: _[Projeto - Movie Cards Library Stateful]()_
+- [ ] 12-1: Components com estado
+- [ ] 12-2: Eventos e formulários no React
+- [ ] 12-3: [Projeto - Movie Cards Library Stateful]()
 
 ##### Bloco 13: React
 
-- [ ] 13-1: _Melhorando o reuso de componentes: props.children e PropTypes_
-- [ ] 13-2: _Ciclo de vida de componentes em React_
-- [ ] 13-3: _React Router_
-- [ ] 13-4: _[Projeto - Movie Cards Library CRUD]()_
+- [ ] 13-1: Melhorando o reuso de componentes: props.children e PropTypes
+- [ ] 13-2: Ciclo de vida de componentes em React
+- [ ] 13-3: React Router
+- [ ] 13-4: [Projeto - Movie Cards Library CRUD]()
 
 ##### Bloco 14: Metodologias Ágeis
 
-- [ ] 14-1: _Metodologias Ágeis_
-- [ ] 14-2: _[Projeto - Frontend Online Store]()_
+- [ ] 14-1: Metodologias Ágeis
+- [ ] 14-2: [Projeto - Frontend Online Store]()
 
 ##### Bloco 15: Testes em React
 
-- [ ] 15-1: _Testando React com a React Testing Library_
-- [ ] 15-2: _Testando React com a React Testing Library - Parte 2_
-- [ ] 15-3: _[Projeto - Testes em React]()_
+- [ ] 15-1: Testando React com a React Testing Library
+- [ ] 15-2: Testando React com a React Testing Library - Parte 2
+- [ ] 15-3: [Projeto - Testes em React]()
 
 ##### Bloco 16: Introdução ao Redux
 
-- [ ] 16-1: _Introdução ao Redux_
-- [ ] 16-2: _React com Redux - Parte 1_
-- [ ] 16-3: _React com Redux - Prática_
-- [ ] 16-4: _React com Redux - Parte 2_
-- [ ] 16-5: _Testes síncronos com React-Redux_
-- [ ] 16-6: _[Projeto - Tabela com filtros de dados]()_
+- [ ] 16-1: Introdução ao Redux
+- [ ] 16-2: React com Redux - Parte 1
+- [ ] 16-3: React com Redux - Prática
+- [ ] 16-4: React com Redux - Parte 2
+- [ ] 16-5: Testes síncronos com React-Redux
+- [ ] 16-6: [Projeto - Tabela com filtros de dados]()
 
 ##### Bloco 17: Projeto React
 
-- [ ] 17-1: _[Projeto - Jogo de Trivia]()_
+- [ ] 17-1: [Projeto - Jogo de Trivia]()
 
 ##### Bloco 18: React & Context API
 
-- [ ] 18-1: _Context API do React_
-- [ ] 18-2: _React Hooks - useState e useContext_
-- [ ] 18-3: _React Hooks - useEffect e Hooks customizados_
-- [ ] 18-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
+- [ ] 18-1: Context API do React
+- [ ] 18-2: React Hooks - useState e useContext
+- [ ] 18-3: React Hooks - useEffect e Hooks customizados
+- [ ] 18-4: [Projeto - StarWars Datatable com Context API e Hooks]()
 
 ##### Bloco 19: Projeto Final de Front-end
 
-- [ ] 19-1: _[Projeto - App de Receitas]()_
+- [ ] 19-1: [Projeto - App de Receitas]()
 
 ### Desenvolvimento Back-end :hourglass_flowing_sand:
 
 ##### Bloco 20: Introdução - Bancos de dados relacionais
 
-- [ ] 20-1: _Banco de dados SQL_
-- [ ] 20-2: _Encontrando dados em um banco de dados_
-- [ ] 20-3: _Filtrando dados de forma específica_
-- [ ] 20-4: _Manipulando tabelas_
-- [ ] 20-5: _[Projeto - All For One]()_
+- [ ] 20-1: Banco de dados SQL
+- [ ] 20-2: Encontrando dados em um banco de dados
+- [ ] 20-3: Filtrando dados de forma específica
+- [ ] 20-4: Manipulando tabelas
+- [ ] 20-5: [Projeto - All For One]()
 
 ##### Bloco 21: Bancos de dados relacionais
 
-- [ ] 21-1: _Funções mais usadas no SQL_
-- [ ] 21-2: _Descomplicando JOINs e UNIONs_
-- [ ] 21-3: _Stored Routines & Subqueries_
-- [ ] 21-4: _[Projeto - Vocabulary Booster]()_
+- [ ] 21-1: Funções mais usadas no SQL
+- [ ] 21-2: Descomplicando JOINs e UNIONs
+- [ ] 21-3: Stored Routines & Subqueries
+- [ ] 21-4: [Projeto - Vocabulary Booster]()
 
 ##### Bloco 22: Bancos de dados relacionais
 
-- [ ] 22-1: _Transformando ideias em um modelo de banco de dados_
-- [ ] 22-2: _Normalização, Formas Normais e Dumps_
-- [ ] 22-2: _Transformando ideias em um modelo de banco de dados - Parte 2_
-- [ ] 22-3: _[Projeto - One For All]()_
+- [ ] 22-1: Transformando ideias em um modelo de banco de dados
+- [ ] 22-2: Normalização, Formas Normais e Dumps
+- [ ] 22-2: Transformando ideias em um modelo de banco de dados - Parte 2
+- [ ] 22-3: [Projeto - One For All]()
 
 ##### Bloco 23: Introdução - NoSQL
 
-- [ ] 23-1: _MongoDB - Introdução_
-- [ ] 23-2: _Filter Operators_
-- [ ] 23-3: _[Projeto - Data Flights]()_
+- [ ] 23-1: MongoDB - Introdução
+- [ ] 23-2: Filter Operators
+- [ ] 23-3: [Projeto - Data Flights]()
 
 ##### Bloco 24: Updates
 
