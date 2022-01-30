@@ -4,7 +4,6 @@ O programa de treinamento em desenvolvimento web da Trybe tem uma carga de traba
 
 Os principais blocos técnicos estudados são JavaScript, HTML, CSS, React, Node, Express.js, SQL, Git, entre outras linguagens e frameworks.
 
-ctions]()_
 
 ##### Bloco 5: Introdução - JavaScript -## Fundamentos do Desenvolvimento Web :white_check_mark:
 
