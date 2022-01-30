@@ -139,7 +139,7 @@ Os principais blocos técnicos estudados são JavaScript, HTML, CSS, React, Node
 
 - [ ] 19-1: _[Projeto - App de Receitas]()_
 
-## Desenvolvimento Back-end :hourglass_flowing_sand:
+### Desenvolvimento Back-end :hourglass_flowing_sand:
 
 ##### Bloco 20: Introdução - Bancos de dados relacionais
 
@@ -235,7 +235,7 @@ Os principais blocos técnicos estudados são JavaScript, HTML, CSS, React, Node
 
 - [ ] 34-1: _[Projeto - Trybeer V2]()_
 
-## Ciência da Computação :hourglass_flowing_sand:
+### Ciência da Computação :hourglass_flowing_sand:
 
 ##### Bloco 35: Introdução - Ciência da Computação
 
