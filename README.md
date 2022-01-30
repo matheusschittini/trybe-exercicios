@@ -10,8 +10,8 @@ Os principais blocos técnicos estudados são JavaScript, HTML, CSS, React, Node
 
 ##### Bloco 1: Introdução - Unix & Shell
 
-- [x] 1-3: Unix & Shell- Part 1
-- [x] 1-4: Unix & Shell- Part 2
+- [x] 1-3: Unix & Shell- Parte 1
+- [x] 1-4: Unix & Shell- Parte 2
 
 ##### Bloco 2: Git & GitHub 
 
@@ -51,8 +51,8 @@ Os principais blocos técnicos estudados são JavaScript, HTML, CSS, React, Node
 
 - [ ] 6-1: HTML & CSS - Forms
 - [ ] 6-2: Bibliotecas JavaScript e Frameworks CSS
-- [ ] 6-3: CSS Flexbox - Part 1
-- [ ] 6-4: CSS Flexbox - Part 2
+- [ ] 6-3: CSS Flexbox - Parte 1
+- [ ] 6-4: CSS Flexbox - Parte 2
 - [ ] 6-5: CSS Responsivo - Mobile First
 - [ ] 6-6: [Projeto - Página inicial do Facebook]()
 
