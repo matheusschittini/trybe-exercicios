@@ -4,24 +4,24 @@ O programa de treinamento em desenvolvimento web da Trybe tem uma carga de traba
 
 Os principais blocos técnicos estudados são JavaScript, HTML, CSS, React, Node, Express.js, SQL, Git, entre outras linguagens e frameworks.
 
-#### Fundamentos do Desenvolvimento Web ✔️_check_mark:
+#### Fundamentos do Desenvolvimento Web ✔️
 
 ##### Bloco 1: Introdução - Unix & Shell
 
 - [x] 1-3: Unix & Shell- Part 1
 - [x] 1-4: Unix & Shell- Part 2
 
-##### Bloco 2: Git & GitHub
+##### Bloco 2: Git & GitHub 
 
-- [ ] 2-1: O que é e para que serve?
-- [ ] 2-2: Entendendo os comandos
-- [ ] 2-3: Internet - Entendendo como ela funciona
+- [x] 2-1: O que é e para que serve?
+- [x] 2-2: Entendendo os comandos
+- [x] 2-3: Internet - Entendendo como ela funciona
 
 ##### Bloco 3: Introdução - HTML & CSS
 
-- [ ] 3-1: HTML & CSS - Estruturas de página
-- [ ] 3-2: HTML & CSS - Primeiros passos em CSS
-- [ ] 3-3: HTML & CSS - Seletores e posicionamento
+- [x] 3-1: HTML & CSS - Estruturas de página
+- [x] 3-2: HTML & CSS - Primeiros passos em CSS
+- [x] 3-3: HTML & CSS - Seletores e posicionamento
 - [ ] 3-4: HTML Semântico
 - [ ] 3-5: [Projeto - HTML & CSS]()
 
