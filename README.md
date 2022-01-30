@@ -8,7 +8,7 @@ Os principais blocos técnicos estudados são JavaScript, HTML, CSS, React, Node
 
 ###### Bloco 1: Introdução - Unix & Shell
 
- [ ] 1-3: Unix & Shell- Part 1
+- [ ] ###### 1-3: Unix & Shell- Part 1
 - [ ] 1-4: Unix & Shell- Part 2
 
 ##### Bloco 2: Git & GitHub
