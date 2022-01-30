@@ -6,7 +6,7 @@ Os principais blocos técnicos estudados são JavaScript, HTML, CSS, React, Node
 
 
 
-#### 1) Fundamentos do Desenvolvimento Web ✔️
+#### Módulo 1) Fundamentos do Desenvolvimento Web ✔️
 
 ##### Bloco 1: Introdução - Unix & Shell
 
@@ -84,7 +84,7 @@ Os principais blocos técnicos estudados são JavaScript, HTML, CSS, React, Node
 - [ ] 10-3: Jest - Simulando comportamentos
 - [ ] 10-4: [Projeto - Jest Assíncrono e Mocking]()
 
-### Desenvolvimento Front-end :hourglass_flowing_sand:
+#### Módulo 2) Desenvolvimento Front-end :hourglass_flowing_sand:
 
 ##### Bloco 11: Introdução - React
 
@@ -140,7 +140,7 @@ Os principais blocos técnicos estudados são JavaScript, HTML, CSS, React, Node
 
 - [ ] 19-1: [Projeto - App de Receitas]()
 
-### Desenvolvimento Back-end :hourglass_flowing_sand:
+#### Módulo 3) Desenvolvimento Back-end :hourglass_flowing_sand:
 
 ##### Bloco 20: Introdução - Bancos de dados relacionais
 
@@ -236,7 +236,7 @@ Os principais blocos técnicos estudados são JavaScript, HTML, CSS, React, Node
 
 - [ ] 34-1: _[Projeto - Trybeer V2]()_
 
-### Ciência da Computação :hourglass_flowing_sand:
+### Módulo 4) Ciência da Computação :hourglass_flowing_sand:
 
 ##### Bloco 35: Introdução - Ciência da Computação
 
