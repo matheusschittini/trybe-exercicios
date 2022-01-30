@@ -6,10 +6,10 @@ Os principais blocos técnicos estudados são JavaScript, HTML, CSS, React, Node
 
 #### Fundamentos do Desenvolvimento Web :white_check_mark:
 
-###### Bloco 1: Introdução - Unix & Shell
+##### Bloco 1: Introdução - Unix & Shell
 
-- [ ] ###### 1-3: Unix & Shell- Part 1
-- [ ] 1-4: Unix & Shell- Part 2
+- [x] 1-3: Unix & Shell- Part 1
+- [x] 1-4: Unix & Shell- Part 2
 
 ##### Bloco 2: Git & GitHub
 
