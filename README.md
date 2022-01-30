@@ -236,7 +236,7 @@ Os principais blocos técnicos estudados são JavaScript, HTML, CSS, React, Node
 
 - [ ] 34-1: _[Projeto - Trybeer V2]()_
 
-### Módulo 4) Ciência da Computação :hourglass_flowing_sand:
+#### Módulo 4) Ciência da Computação :hourglass_flowing_sand:
 
 ##### Bloco 35: Introdução - Ciência da Computação
 
