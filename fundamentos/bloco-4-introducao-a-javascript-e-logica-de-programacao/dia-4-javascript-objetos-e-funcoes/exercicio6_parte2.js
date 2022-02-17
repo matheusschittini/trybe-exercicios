@@ -9,4 +9,4 @@ function somaTudo(numero){
     return soma;
 }
 
-console.log(somaTudo(3));
+console.log(somaTudo(numero));
