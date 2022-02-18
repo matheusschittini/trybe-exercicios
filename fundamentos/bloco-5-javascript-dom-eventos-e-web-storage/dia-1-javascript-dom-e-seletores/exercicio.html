@@ -54,9 +54,47 @@
  Crie uma função que mude a cor do quadrado amarelo para o verde da Trybe (rgb(76,164,109)).
  Crie uma função que mude a cor do quadrado vermelho para branco.
  Crie uma função que corrija o texto da tag <h1>.
- Crie uma função que modifique todo o texto da tag <p> para maiúsculo.
+ Crie uma função que modifique o primeiro texto da tag <p> para maiúsculo.
  Crie uma função que exiba o conteúdo de todas as tags <p> no console.
         */
+       function changeText(){
+           let paragraph = document.getElementsByTagName('p')[1];
+            paragraph.innerHTML ='Estar trabalhando e realizado profissionalmente';
+       }
+       changeText();
+
+       function changeColor(){
+           let quadradoAmarelo = document.getElementsByClassName('main-content')[0];
+           quadradoAmarelo.style.background =  'rgb(76,164,109)';
+       }
+       changeColor();
+
+       function changeColor2(){
+           let quadradoVermelho = document.getElementsByClassName('center-content')[0];
+           quadradoVermelho.style.background = 'white';
+       }
+       changeColor2();
+
+       function corrigeTexto(){
+           let texto = document.getElementsByTagName('h1')[0];
+           texto.innerText = 'Exercício 5.1 - JavaScript';
+       }
+
+    corrigeTexto();
+
+    function tudoMaiusculo(){
+        let maiusculo = document.getElementsByTagName('p')[0];
+        maiusculo.innerText = maiusculo.innerText.toUpperCase();
+    }
+    tudoMaiusculo();
+    
+    function exibeTodosP(){
+        let paragrafos = document.getElementsByTagName('p');
+        for (index = 0; index < paragrafos.length; index+=1){
+            console.log(paragrafos[index].innerText);
+        }
+    }
+    exibeTodosP();
     </script>
   </body>
 </html>
