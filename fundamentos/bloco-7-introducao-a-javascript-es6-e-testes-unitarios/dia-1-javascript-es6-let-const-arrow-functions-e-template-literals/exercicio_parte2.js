@@ -1,6 +1,6 @@
 // 1) Crie uma função que receba um número e retorne seu fatorial.
 
-const calculaFatorial = numero => {
+ const calculaFatorial = numero => {
     if (numero < 0) {
         return `O número precisa ser maior que 0`
     } else if (numero == 0) {
@@ -32,4 +32,5 @@ const retornaMaiorPalavra = frase => {
     return maiorPalavra;
 }
 console.log(retornaMaiorPalavra('Amar e mudar as coisas me interessa mais'))
+
 
