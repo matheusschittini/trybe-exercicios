@@ -128,5 +128,3 @@ function authorUnique() {
       && (bookSome.author.name !== book.author.name)));
   }
 
-  //
-
