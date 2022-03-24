@@ -120,3 +120,23 @@ function fantasyOrScienceFictionAuthors() {
     .sort();
   }
 console.log(fantasyOrScienceFictionAuthors(books));
+
+/* 6 - Crie um array com o nome de todos os livros com mais de 60 anos de publicação. */
+
+function oldBooks() {
+    const currentYear = new Date().getFullYear();
+    return books
+    .filter((book) => (currentYear - book.releaseYear) > 60)
+    .map((book) => book.name)
+  }
+console.log(oldBooks(books));
+
+/* 7 - Encontre o nome do livro escrito pela pessoa cujo nome registrado começa com três iniciais.
+Dica: cada inicial termina com um ponto.
+ */
+
+function authorWith3DotsOnName() {
+  return books.find((book) => book.author.name[1] === '.' && book.author.name[4] === '.' && book.author.name[7] === '.').name
+}
+
+console.log(authorWith3DotsOnName(books));
